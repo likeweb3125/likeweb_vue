@@ -1,0 +1,438 @@
+{
+    "portfolioList": [
+	{
+	    "project": "플랜잇 코리아",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://www.planitkorea.com/",
+	    "thumb": "img_port75.jpg"
+	},{
+	    "project": "무이재",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "https://www.muijae.com/",
+	    "thumb": "img_port74.jpg"
+	},{
+	    "project": "구리청과 온라인경매 시스템",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://online.kurifnv.com/",
+	    "thumb": "img_port73.jpg"
+	},{
+	    "project": "미경테크",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.meekyung.co.kr/",
+	    "thumb": "img_port72.jpg"
+	},{
+	    "project": "Smile SD",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://smilesd.co.kr/",
+	    "thumb": "img_port71.jpg"
+	},{
+	    "project": "비앤피케어",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.ibpcare.com/",
+	    "thumb": "img_port70.jpg"
+	},{
+	    "project": "WINCEN",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.wincen.co.kr/",
+	    "thumb": "img_port69.jpg"
+	},{
+	    "project": "WEEP 목재교육전문가 양성기관",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://www.kwprc-weep.org/",
+	    "thumb": "img_port68.jpg"
+	},{
+	    "project": "WTIC 목재제품시험검사센터",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://www.kwprc-wtic.org/",
+	    "thumb": "img_port67.jpg"
+	},{
+    "project": "더베르",
+    "kind": "SHOPPING MALL",
+    "url": "https://thever.kr/index.html",
+    "thumb": "img_port66.jpg"
+},{
+	    "project": "한국스포츠교육희망나눔",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://ksportshare.com/",
+	    "thumb": "img_port65.jpg"
+	},{
+	    "project": "KWPRC 통합사이트",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.kwprc.org/",
+	    "thumb": "img_port64.jpg"
+	},{
+	    "project": "R&D탄소중립재료공학연구실",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://www.kwprc-rnd.org/",
+	    "thumb": "img_port63.jpg"
+	},{
+	    "project": "한우의 날",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.hanwoofestival.com/",
+	    "thumb": "img_port62.jpg"
+	},{
+	    "project": "모하비",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.mohabi-invest.com/",
+	    "thumb": "img_port61.jpg"
+	},{
+	    "project": "위너넷 온라인교육센터",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://winner797.net/",
+	    "thumb": "img_port60.jpg"
+	},{
+	    "project": "더사주",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://the-saju.co.kr/",
+	    "thumb": "img_port59.jpg"
+	},
+	{
+	    "project": "LX 지인 VR",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.lxzinvr.com/",
+	    "thumb": "img_port58.jpg"
+	},
+	{
+	    "project": "LX 하우시스",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://b2bzincatalog.com/",
+	    "thumb": "img_port57.jpg"
+	},
+	{
+	    "project": "LX Design Clooection",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.hflor-design.com/",
+	    "thumb": "img_port56.jpg"
+	},
+	{
+	    "project": "LX Hausys - HI-MACS",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://himacsdesign.com/",
+	    "thumb": "img_port55.jpg"
+	},
+	{
+	    "project": "BMW 멤버십몰",
+	    "kind": "SHOPPING MALL",
+	    "url": "",
+	    "thumb": "img_port54.jpg"
+	},
+	{
+	    "project": "모자이카",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://www.mosaicar.co.kr/",
+	    "thumb": "img_port53.jpg"
+	},
+	{
+	    "project": "셔츠스펙터",
+	    "kind": "SHOPPING MALL",
+	    "url": "https://shirts-specter.com/",
+	    "thumb": "img_port52.jpg"
+	},
+	{
+	    "project": "크리닝업",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "https://www.cleaningup.biz/",
+	    "thumb": "img_port51.jpg"
+	},
+	{
+	    "project": "소잠한의원",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "https://www.sojam.co.kr/",
+	    "thumb": "img_port50.jpg"
+	},
+	{
+	    "project": "웍스컴바인",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.workscombine.com/",
+	    "thumb": "img_port49.jpg"
+	},
+	{
+	    "project": "수원델타플렉스관리공단",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.swicm.or.kr/",
+	    "thumb": "img_port48.jpg"
+	},
+	{
+	    "project": "엘그린",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://lgreen.co.kr/",
+	    "thumb": "img_port47.jpg"
+	},
+	{
+	    "project": "우리아이해피박스",
+	    "kind": "SHOPPING MALL",
+	    "url": "https://www.ihappybox.co.kr/",
+	    "thumb": "img_port46.jpg"
+	},
+	{
+	    "project": "펫웰",
+	    "kind": "SHOPPING MALL",
+	    "url": "https://www.petwel.co.kr/",
+	    "thumb": "img_port45.jpg"
+	},
+	{
+	    "project": "쎌렉트박스",
+	    "kind": "SHOPPING MALL",
+	    "url": "http://sselectbox.com/",
+	    "thumb": "img_port44.jpg"
+	},
+	{
+	    "project": "일신그룹",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://ilshingroup.com",
+	    "thumb": "img_port43.jpg"
+	},
+	{
+	    "project": "오영",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.ohyoung.net/",
+	    "thumb": "img_port42.jpg"
+	},
+	{
+	    "project": "엠피 인터랙티브",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://mpinteractive.co.kr/",
+	    "thumb": "img_port41.jpg"
+	},
+	{
+	    "project": "평택산업단지관리공단",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.picm.or.kr/",
+	    "thumb": "img_port40.jpg"
+	},
+	{
+	    "project": "XN시스템즈",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.xnsystems.com/",
+	    "thumb": "img_port39.jpg"
+	},
+	{
+	    "project": "벨라클리닉",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "http://www.bellaclinic.co.kr/",
+	    "thumb": "img_port38.jpg"
+	},
+	{
+	    "project": "케이탑치과",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "http://www.ktopdental.co.kr/",
+	    "thumb": "img_port37.jpg"
+	},
+	{
+	    "project": "㈜기산과학",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://kisantech.co.kr/",
+	    "thumb": "img_port36.jpg"
+	},
+	{
+	    "project": "강남W치과",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "http://w75.co.kr/",
+	    "thumb": "img_port35.jpg"
+	},
+	{
+	    "project": "한국호텔업협회",
+	    "kind": "SHOPPING MALL",
+	    "url": "https://www.hotelsmart.co.kr/",
+	    "thumb": "img_port34.jpg"
+	},
+	{
+	    "project": "벨런스치과병원",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "http://balancedental.kr/",
+	    "thumb": "img_port33.jpg"
+	},
+	{
+	    "project": "알에프텍",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.rftech.co.kr/",
+	    "thumb": "img_port32.jpg"
+	},
+	{
+	    "project": "콤프코리아",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://compkorea.com/",
+	    "thumb": "img_port31.jpg"
+	},
+	{
+	    "project": "경남FC",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.gyeongnamfc.com/",
+	    "thumb": "img_port30.jpg"
+	},
+	{
+	    "project": "위너평생교육원",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://e.winner797.co.kr/",
+	    "thumb": "img_port29.jpg"
+	},
+	{
+	    "project": "쌍빠",
+	    "kind": "SHOPPING MALL",
+	    "url": "http://www.sampar.co.kr/",
+	    "thumb": "img_port28.jpg"
+	},
+	{
+	    "project": "대한에이즈예방협회",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.aids.or.kr/",
+	    "thumb": "img_port27.jpg"
+	},
+	{
+	    "project": "공무원연금공단",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.geps.or.kr/",
+	    "thumb": "img_port26.jpg"
+	},
+	{
+	    "project": "손발척척 정형외과",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "http://sonbalchukchuk.co.kr/",
+	    "thumb": "img_port25.jpg"
+	},
+	{
+	    "project": "마켓플러스",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://market-plus.co.kr/",
+	    "thumb": "img_port24.jpg"
+	},
+	{
+	    "project": "독도바다낚시터",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://dokdofishing.co.kr/",
+	    "thumb": "img_port23.jpg"
+	},
+	{
+	    "project": "㈜한보화학",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.hanbochemicals.com/",
+	    "thumb": "img_port22.jpg"
+	},
+	{
+	    "project": "이노블루산업㈜",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://innoblueind.com/",
+	    "thumb": "img_port21.jpg"
+	},
+	{
+	    "project": "스엔코",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.skytofamily.com/",
+	    "thumb": "img_port20.jpg"
+	},
+	{
+	    "project": "사소한",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://sasohan.net/",
+	    "thumb": "img_port19.jpg"
+	},
+	{
+	    "project": "M2M Solution",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://m2md.co.kr/",
+	    "thumb": "img_port18.jpg"
+	},
+	{
+	    "project": "레드업스탁",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://redupstock.com/",
+	    "thumb": "img_port17.jpg"
+	},
+	{
+	    "project": "원디",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://oned.co.kr/",
+	    "thumb": "img_port16.jpg"
+	},
+	{
+	    "project": "GIGDC",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.gigdc.or.kr/",
+	    "thumb": "img_port15.jpg"
+	},
+	{
+	    "project": "페이지성형외과",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "http://www.pageps.co.kr/",
+	    "thumb": "img_port14.jpg"
+	},
+	{
+	    "project": "스노우피크",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.snowpeak.co.kr/",
+	    "thumb": "img_port13.jpg"
+	},
+	{
+	    "project": "윈미디텍",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://winmedi.co.kr/",
+	    "thumb": "img_port12.jpg"
+	},
+	{
+	    "project": "구리청과",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.kurifnv.com/",
+	    "thumb": "img_port11.jpg"
+	},
+	{
+	    "project": "올림피아드학원",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.olympiad.ac/",
+	    "thumb": "img_port10.jpg"
+	},
+	{
+	    "project": "테크스피어",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.tech-sphere.com/",
+	    "thumb": "img_port9.jpg"
+	},
+	{
+	    "project": "ADP 글로벌",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.adpair.co.kr/",
+	    "thumb": "img_port8.jpg"
+	},
+	{
+	    "project": "청담비아이",
+	    "kind": "HOSPITAL WEBSITE",
+	    "url": "http://www.cdbi.co.kr/",
+	    "thumb": "img_port7.jpg"
+	},
+	{
+	    "project": "한국특수스틸",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.korsteel.com/",
+	    "thumb": "img_port6.jpg"
+	},
+	{
+	    "project": "코스피",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.cospi.co.kr/",
+	    "thumb": "img_port5.jpg"
+	},
+	{
+	    "project": "㈜다인이엔지",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.daineng.co.kr/",
+	    "thumb": "img_port4.jpg"
+	},
+	{
+	    "project": "전국농협중도매인연합회",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.naif.or.kr/",
+	    "thumb": "img_port3.jpg"
+	},
+	{
+	    "project": "아이러브탠",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.ilovetan.com/",
+	    "thumb": "img_port2.jpg"
+	},
+	{
+	    "project": "포엠건축사",
+	    "kind": "COMPANY WEBSITE",
+	    "url": "http://www.foem.kr/",
+	    "thumb": "img_port1.jpg"
+	}
+    ]
+}

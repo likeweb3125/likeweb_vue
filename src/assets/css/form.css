@@ -1,0 +1,30 @@
+/*input*/ 
+::-webkit-input-placeholder { /* WebKit browsers */ color: #ccc; text-align:left;} 
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */ color: #ccc; opacity: 1; text-align:left;} 
+::-moz-placeholder { /* Mozilla Firefox 19+ */ color: #ccc; opacity: 1; text-align:left; } 
+:-ms-input-placeholder { /* Internet Explorer 10+ */ color: #ccc; text-align:left;} 
+.appearance{-webkit-appearance: none;
+-moz-appearance: none;
+-ms-appearance: none;
+-o-appearance: none;
+appearance: none;}
+
+select::-ms-expand {
+    display: none;
+}
+select{
+   -webkit-appearance: none; /* 화살표 없애기 for chrome*/
+   -moz-appearance: none;    /* 화살표 없애기 for firefox*/
+   appearance: none;         /* 화살표 없애기 공통*/}
+
+button {
+    margin: 0;
+    padding: 0;
+	border:0
+}
+
+/* custom radio */
+.custom_radio label{font-weight: 300;display: block;cursor: pointer;margin-right: 50px;}
+.custom_radio label:last-child{margin-right: 0;}
+.custom_radio label .box{width: 20px;height: 20px;border-radius: 3px;border:1px solid #ddd;margin: 4px 10px 0 0;}
+.custom_radio label input:checked + .box{background: url(../images/ic_check.png)no-repeat center;border-color: #ad2024;}

@@ -1,0 +1,136 @@
+{
+    "portfolioList": [
+	    {
+            "project": "제주 토스카나 호텔",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/toscana_hotel/",
+            "thumb": "img_port_vr22.jpg"
+        },
+	    {
+            "project": "강남 초이스 정형외과",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/choicehospital/",
+            "thumb": "img_port_vr21.jpg"
+        },
+	    {
+            "project": "통나무 향기 펜션",
+            "kind": "VR SITE",
+            "url": "http://통나무향기.com/",
+            "thumb": "img_port_vr20.jpg"
+        },
+	    {
+            "project": "더 박스 펜션",
+            "kind": "VR SITE",
+            "url": "http://theboxps.com/",
+            "thumb": "img_port_vr19.jpg"
+        },
+	    {
+            "project": "소풍 호텔",
+            "kind": "VR SITE",
+            "url": "http://sopoonghotel.co.kr/",
+            "thumb": "img_port_vr18.jpg"
+        },
+	    {
+            "project": "가온누리홈타운",
+            "kind": "VR SITE",
+            "url": "http://injugaon.com/",
+            "thumb": "img_port_vr17.jpg"
+        },
+	    {
+            "project": "목포 샹그리아 호텔",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/shangria/",
+            "thumb": "img_port_vr16.jpg"
+        },
+	    {
+            "project": "도룡 KCC 웰츠타워",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/welltztower/",
+            "thumb": "img_port_vr15.jpg"
+        },
+	    {
+            "project": "홍성 대우 이안아파트",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/hongseong_iaan/",
+            "thumb": "img_port_vr14.jpg"
+        },
+	    {
+            "project": "구리 갈매동 아파트사업",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/guri_ipark/",
+            "thumb": "img_port_vr13.jpg"
+        },
+	    {
+            "project": "동작 하이팰리스",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/dj_highpalace/59a.html",
+            "thumb": "img_port_vr12.jpg"
+        },
+	    {
+            "project": "한샘기숙학원(안성본원)",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/hansaem/",
+            "thumb": "img_port_vr11.jpg"
+        },
+	    {
+            "project": "충남예술고등학교",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/cnartschool/",
+            "thumb": "img_port_vr10.jpg"
+        },
+	    {
+            "project": "단국대학교치과대학병원",
+            "kind": "VR SITE",
+            "url": "http://dudh.realvr.co.kr/",
+            "thumb": "img_port_vr9.jpg"
+        },
+	    {
+            "project": "파티마외과",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/patimaclinic/",
+            "thumb": "img_port_vr8.jpg"
+        },
+	    {
+            "project": "하늘안과의원",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/skyeye_gangnam/vr.html",
+            "thumb": "img_port_vr7.jpg"
+        },
+	    {
+            "project": "행복나눔요양원",
+            "kind": "VR SITE",
+            "url": "http://www.happydivide.co.kr/",
+            "thumb": "img_port_vr6.jpg"
+        },
+	    {
+            "project": "피에스타9 강북상봉",
+            "kind": "VR SITE",
+            "url": "http://fiestar9.com/",
+            "thumb": "img_port_vr5.jpg"
+        },
+	    {
+            "project": "웨딩베리",
+            "kind": "VR SITE",
+            "url": "http://vr2.dreamvrad.net/weddingvery/",
+            "thumb": "img_port_vr4.jpg"
+        },
+	    {
+            "project": "오산 웨딩의 전당",
+            "kind": "VR SITE",
+            "url": "http://osanwc.com/",
+            "thumb": "img_port_vr3.jpg"
+        },
+	    {
+            "project": "청담웨딩",
+            "kind": "VR SITE",
+            "url": "http://echungdam.co.kr/",
+            "thumb": "img_port_vr2.jpg"
+        },
+	    {
+            "project": "W-wedding",
+            "kind": "VR SITE",
+            "url": "http://wweddinghall.com/",
+            "thumb": "img_port_vr1.jpg"
+        }
+    ]
+}

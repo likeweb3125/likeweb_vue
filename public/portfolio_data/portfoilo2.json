@@ -1,0 +1,376 @@
+{
+    "portfolioList": [
+        {
+            "id": "63",
+            "project": "LX 하우시스 구축",
+            "category": "Web",
+            "logo": "logo_port63.png"
+        },
+        {
+            "id": "62",
+            "project": "LX B2b",
+            "category": "Web",
+            "logo": "logo_port62.png"
+        },
+        {
+            "id": "60",
+            "project": "LF 트라이본즈 셔츠스펙터 구축",
+            "category": "Web",
+            "logo": "logo_port60.png"
+        },
+        {
+            "id": "59",
+            "project": "SK 건설 도면 VIEW 구축",
+            "category": "Web",
+            "logo": "logo_port59.png"
+        },
+        {
+            "id": "58",
+            "project": "구몬교육 웹사이트 구축",
+            "category": "Web",
+            "logo": "logo_port58.png"
+        },
+        {
+            "id": "57",
+            "project": "평생교육진흥원 웹사이트 구축",
+            "category": "Web",
+            "logo": "logo_port57.png"
+        },
+        {
+            "id": "56",
+            "project": "코엑스 메인 개편",
+            "category": "Web",
+            "logo": "logo_port56.png"
+        },
+        {
+            "id": "55",
+            "project": "롯데그룹 웹사이트 구축",
+            "category": "Web",
+            "logo": "logo_port55.png"
+        },
+        {
+            "id": "54",
+            "project": "캐논 코리아 웹사이트 디자인 리뉴얼",
+            "category": "Web",
+            "logo": "logo_port54.png"
+        },
+        {
+            "id": "53",
+            "project": "KTH 플레이키즈 웹사이트 구축",
+            "category": "Web",
+            "logo": "logo_port53.png"
+        },
+        {
+            "id": "52",
+            "project": "현대 로지엠 웹사이트",
+            "category": "Web",
+            "logo": "logo_port52.png"
+        },
+        {
+            "id": "51",
+            "project": "중앙대학교 모바일웹 포탈",
+            "category": "Web",
+            "logo": "logo_port51.png"
+        },
+        {
+            "id": "50",
+            "project": "현대 아이시어스 클라우드이너스 포탈",
+            "category": "Web",
+            "logo": "logo_port50.png"
+        },
+        {
+            "id": "49",
+            "project": "AJ렌트카 홈페이지 메인 리뉴얼",
+            "category": "Web",
+            "logo": "logo_port49.png"
+        },
+        {
+            "id": "48",
+            "project": "AJ렌트카 프로모션",
+            "category": "Web",
+            "logo": "logo_port48.png"
+        },
+        {
+            "id": "47",
+            "project": "제일약품 웹사이트",
+            "category": "Web",
+            "logo": "logo_port47.png"
+        },
+        {
+            "id": "46",
+            "project": "한국도심공항 웹사이트",
+            "category": "Web",
+            "logo": "logo_port46.png"
+        },
+        {
+            "id": "45",
+            "project": "서울시 예약포털 웹사이트",
+            "category": "Web",
+            "logo": "logo_port45.png"
+        },
+        {
+            "id": "44",
+            "project": "지식경제부 실시간 통합관리 시스템",
+            "category": "Web",
+            "logo": "logo_port44.png"
+        },
+        {
+            "id": "43",
+            "project": "BMW 멤버스몰 구축",
+            "category": "Mobile Web",
+            "logo": "logo_port43.png"
+        },
+        {
+            "id": "42",
+            "project": "다날 페이코인 멤버스몰 구축",
+            "category": "Mobile Web",
+            "logo": "logo_port42.png"
+        },
+        {
+            "id": "41",
+            "project": "청도U시티 모바일웹 디자인 구축",
+            "category": "Mobile Web",
+            "logo": "logo_port41.png"
+        },
+        {
+            "id": "40",
+            "project": "구몬교육 모바일앱 구축",
+            "category": "Mobile Web",
+            "logo": "logo_port40.png"
+        },
+        {
+            "id": "39",
+            "project": "새누리당 모바일웹 구축",
+            "category": "Mobile Web",
+            "logo": "logo_port39.png"
+        },
+        {
+            "id": "38",
+            "project": "KTH 플레이키즈 모바일웹 구축",
+            "category": "Mobile Web",
+            "logo": "logo_port38.png"
+        },
+        {
+            "id": "37",
+            "project": "금호고속 모바일웹 디자인 개편",
+            "category": "Mobile Web",
+            "logo": "logo_port37.png"
+        },
+        {
+            "id": "36",
+            "project": "삼성 WCG 모바일웹",
+            "category": "Mobile Web",
+            "logo": "logo_port36.png"
+        },
+        {
+            "id": "35",
+            "project": "삼성 모바일 챌린지 모바일웹",
+            "category": "Mobile Web",
+            "logo": "logo_port35.png"
+        },
+        {
+            "id": "34",
+            "project": "중앙대학교 포털 모바일웹",
+            "category": "Mobile Web",
+            "logo": "logo_port34.png"
+        },
+        {
+            "id": "33",
+            "project": "제일약품 모바일웹",
+            "category": "Mobile Web",
+            "logo": "logo_port33.png"
+        },
+        {
+            "id": "32",
+            "project": "서울시 예약포털 모바일웹",
+            "category": "Mobile Web",
+            "logo": "logo_port32.png"
+        },
+        {
+            "id": "31",
+            "project": "한국도심공항 모바일웹",
+            "category": "Mobile Web",
+            "logo": "logo_port31.png"
+        },
+        {
+            "id": "30",
+            "project": "금호 AVIS 렌터카 모바일웹",
+            "category": "Mobile Web",
+            "logo": "logo_port30.png"
+        },
+        {
+            "id": "29",
+            "project": "여수세계박람회 모바일웹 메인 개편",
+            "category": "Mobile Web",
+            "logo": "logo_port29.png"
+        },
+        {
+            "id": "28",
+            "project": "경북노조 모바일웹 구축",
+            "category": "Mobile Web",
+            "logo": "logo_port28.png"
+        },
+        {
+            "id": "27",
+            "project": "GETV 경북교육 IPTV 사업 app",
+            "category": "App",
+            "logo": "logo_port27.png"
+        },
+        {
+            "id": "26",
+            "project": "KTH 플레이키즈 app",
+            "category": "App",
+            "logo": "logo_port26.png"
+        },
+        {
+            "id": "25",
+            "project": "ShaShark (SAMSUNG SDS)",
+            "category": "App",
+            "logo": "logo_port25.png"
+        },
+        {
+            "id": "24",
+            "project": "WCG 세계월드게이밍 App",
+            "category": "App",
+            "logo": "logo_port24.png"
+        },
+        {
+            "id": "23",
+            "project": "아시아나 항공 App",
+            "category": "App",
+            "logo": "logo_port23.png"
+        },
+        {
+            "id": "22",
+            "project": "GolaGola App",
+            "category": "App",
+            "logo": "logo_port22.png"
+        },
+        {
+            "id": "21",
+            "project": "Daum:붉은악마 응원 App",
+            "category": "App",
+            "logo": "logo_port21.png"
+        },
+        {
+            "id": "20",
+            "project": "삼성SDS:샤샥 App",
+            "category": "App",
+            "logo": "logo_port20.png"
+        },
+        {
+            "id": "19",
+            "project": "LG전자:LG Lighting App",
+            "category": "App",
+            "logo": "logo_port19.png"
+        },
+        {
+            "id": "18",
+            "project": "WCG App",
+            "category": "App",
+            "logo": "logo_port18.png"
+        },
+        {
+            "id": "17",
+            "project": "서울시:말하는 해치 App",
+            "category": "App",
+            "logo": "logo_port17.png"
+        },
+        {
+            "id": "16",
+            "project": "Airlines Timetable App",
+            "category": "App",
+            "logo": "logo_port16.png"
+        },
+        {
+            "id": "15",
+            "project": "그림으로 배우는 한국어 App",
+            "category": "App",
+            "logo": "logo_port15.png"
+        },
+        {
+            "id": "14",
+            "project": "친인척호칭법 App",
+            "category": "App",
+            "logo": "logo_port14.png"
+        },
+        {
+            "id": "13",
+            "project": "소망교회 App",
+            "category": "App",
+            "logo": "logo_port13.png"
+        },
+        {
+            "id": "12",
+            "project": "사랑의 교회 App",
+            "category": "App",
+            "logo": "logo_port12.png"
+        },
+        {
+            "id": "11",
+            "project": "네트워크 트래픽 분석/관리",
+            "category": "Solution",
+            "logo": "logo_port11.png"
+        },
+        {
+            "id": "10",
+            "project": "네트워크 가상화",
+            "category": "Solution",
+            "logo": "logo_port10.png"
+        },
+        {
+            "id": "9",
+            "project": "행위기반 탐지 외 연구 및 개발 중",
+            "category": "Solution",
+            "logo": "logo_port9.png"
+        },
+        {
+            "id": "8",
+            "project": "하이닉스",
+            "category": "Hardware",
+            "logo": "logo_port8.png"
+        },
+        {
+            "id": "7",
+            "project": "ADT 캡스텍",
+            "category": "Hardware",
+            "logo": "logo_port7.png"
+        },
+        {
+            "id": "6",
+            "project": "서울지방항공청",
+            "category": "Hardware",
+            "logo": "logo_port6.png"
+        },
+        {
+            "id": "5",
+            "project": "엠넷",
+            "category": "Hardware",
+            "logo": "logo_port5.png"
+        },
+        {
+            "id": "4",
+            "project": "디지팝",
+            "category": "Hardware",
+            "logo": "logo_port4.png"
+        },
+        {
+            "id": "3",
+            "project": "테크원코리아",
+            "category": "Hardware",
+            "logo": "logo_port3.png"
+        },
+        {
+            "id": "2",
+            "project": "벤처기업협회",
+            "category": "Hardware",
+            "logo": "logo_port2.png"
+        },
+        {
+            "id": "1",
+            "project": "C&M 강남 케이블티브이",
+            "category": "Hardware",
+            "logo": "logo_port1.png"
+        }
+    ]
+}
