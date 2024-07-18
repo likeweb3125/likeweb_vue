@@ -2,7 +2,7 @@
 node_modules
 /dist
 *.zip
-/portfolio_data
+
 
 
 # local env files
